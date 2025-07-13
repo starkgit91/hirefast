@@ -12,3 +12,5 @@ exports.uploadCandidates = async (req, res) => {
     res.status(400).send('Upload failed: ' + e.message);
   }
 };
+
+//check accordance
