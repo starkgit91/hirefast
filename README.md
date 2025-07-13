@@ -154,7 +154,7 @@ Opens at `http://localhost:3000`
 ## 🧪 Example `.env`
 
 ```
-MONGO_URI=mongodb+srv://prashant:secretpass@cluster0.mongodb.net/hirefast
+MONGO_URI=mongodb+srv://<ghostoftoshima>:<youpass>@cluster0.mongodb.net/hirefast
 ```
 
 ---
